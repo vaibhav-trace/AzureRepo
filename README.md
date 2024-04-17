@@ -1,0 +1,2 @@
+# AzureRepo
+Repository for Azure
